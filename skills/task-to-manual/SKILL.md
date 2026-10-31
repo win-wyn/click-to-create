@@ -1,6 +1,6 @@
 ---
 name: task-to-manual
-license: "See LICENSE - custom noncommercial terms; all business use requires prior written permission."
+license: "See LICENSE - free personal and business use; selling or paid bundling of covered Materials requires prior written permission."
 description: "Capture key screenshots and create a concise Thai self-service manual as HTML plus PDF while completing a repeatable user task through Browser or Computer Use. Consider proactively when the user could follow the same UI workflow next time, or when asked to document what was done. Skip incidental browsing, one-off investigation, and existing manuals that still cover the task."
 ---
 
