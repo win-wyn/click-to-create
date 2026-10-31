@@ -1,4 +1,4 @@
-Click to Guide - Noncommercial License 1.0
+Click to Guide - Free Use / No Resale License 1.1
 
 Copyright (c) 2026 win-wyn
 
@@ -7,32 +7,39 @@ This license covers the skill instructions, metadata, and documentation supplied
 in this repository (the Materials), only to the extent the rights holder can
 grant rights in them. Third-party materials remain under their own terms.
 
-2. Noncommercial permission
-You may use, copy, modify, and redistribute the Materials for noncommercial
-purposes, subject to the conditions below. Keep this license and the copyright
-notice with copies or substantial portions. Identify modifications when sharing
-an adapted version. Redistribution must preserve these restrictions on the
-covered Materials; it must not imply endorsement by the rights holder.
+2. Free personal and business use
+You may use and modify the Materials free of charge for personal and business
+purposes, including internal company work, consulting, and producing manuals or
+other outputs for paying clients. No separate permission is required for these
+uses. You may also copy and redistribute the Materials free of charge, subject
+to section 3. Keep this license and the copyright notice with copies or
+substantial portions. Identify modifications when sharing an adapted version.
+Redistribution must preserve these restrictions on covered Materials and must
+not imply endorsement by the rights holder.
 
-3. Business and commercial use requires prior written permission
-You must obtain written permission from win-wyn BEFORE any business or
-commercial use of the Materials. This includes internal use for a business or
-professional practice, business operations or business research, paid client
-work, consulting, paid training, selling or licensing the Materials, and bundling
-them into a paid product or service. A free download does not grant these rights.
-Modifying the Materials does not remove this requirement for covered content.
+3. Selling or paid bundling requires prior written permission
+You must obtain written permission from win-wyn BEFORE selling, renting,
+licensing for payment, or charging for access to the Materials or an adapted
+version containing covered Materials. This also applies to including the
+Materials in a paid product, service, subscription, course, or other paid package,
+including a nominally free bonus supplied as part of a paid package. Using the
+Materials internally to create outputs for paid work is permitted under
+section 2 and does not by itself constitute selling or bundling the Materials.
+Renaming or modifying covered Materials does not remove these restrictions.
 
-4. Separate commercial agreement
-Request commercial permission through the repository's GitHub Issues without
+4. Separate resale or paid-distribution agreement
+Request permission for uses restricted by section 3 through GitHub Issues without
 posting confidential information. A request, acknowledgment, or lack of response
 is not permission. Any fee or revenue/profit share must be expressly agreed in a
-separate written agreement. This license sets no automatic commercial license,
-royalty rate, payment obligation, or revenue-sharing arrangement.
+separate written agreement. This license sets no automatic resale permission,
+royalty rate, payment obligation, or revenue-sharing arrangement. Ordinary
+personal and business use permitted by section 2 does not require such an agreement.
 
 5. Outputs and independent rights
 This license does not automatically license or claim ownership of users' inputs
-or generated manuals. Using the Materials to produce outputs for a business
-still requires the prior written permission described above. Nothing here
+or generated manuals. Users may use or sell their generated outputs without
+permission under this license, provided they are not redistributing covered
+Materials in a way restricted by section 3. Nothing here
 restricts rights available independently under applicable law.
 
 6. No warranty
@@ -40,5 +47,5 @@ The Materials are provided as available, without promises of accuracy,
 suitability, availability, or token savings. To the extent permitted by applicable
 law, the rights holder disclaims warranties and liability arising from their use.
 
-This is a custom noncommercial license, not MIT, Creative Commons, or an
+This is a custom free-use/no-resale license, not MIT, Creative Commons, or an
 OSI-approved open source license. Rights not expressly granted are reserved.
