@@ -1,0 +1,6 @@
+interface:
+  display_name: "Click-to-PDF"
+  short_description: "Create illustrated Thai PDF manuals"
+  default_prompt: "Use $click-to-pdf to document this task as a Thai PDF manual; deliver PDF only unless I explicitly choose other formats."
+policy:
+  allow_implicit_invocation: true

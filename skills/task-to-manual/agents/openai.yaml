@@ -1,6 +1,0 @@
-interface:
-  display_name: "Task to Manual"
-  short_description: "Create illustrated guides from repeatable UI tasks"
-  default_prompt: "Use $task-to-manual to complete this Browser or Computer task and create a concise Thai illustrated manual in HTML and PDF I can follow next time."
-policy:
-  allow_implicit_invocation: true

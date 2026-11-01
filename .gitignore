@@ -1,0 +1,8 @@
+/*
+!/README.md
+!/LICENSE
+!/DESIGN.md
+!/.gitignore
+!/skills/
+**/library.local.json
+**/__pycache__/
